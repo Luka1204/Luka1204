@@ -43,7 +43,7 @@ Visita mi portfolio para conocer mis proyectos más destacados:
 
 - **Portfolio:** [lukareyesdev.com](https://lukareyesdev.com/)
 - **Email:** [lukareyesmantulak@gmail.com](mailto:lukareyesmantulak@gmail.com)
-- **LinkedIn:** [Tu perfil de LinkedIn](https://www.linkedin.com/in/luka-reyes-mantulak-32a461210/)
+- **LinkedIn:** [Luka Reyes Mantulak](https://www.linkedin.com/in/luka-reyes-mantulak-32a461210/)
 
 ## 🤝 ¿Tienes un proyecto en mente?
 
